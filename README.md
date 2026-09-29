@@ -34,8 +34,8 @@ clothesline.
 
 | | |
 |---|---|
-| ![Filled with clothespins on desk](images/print-desk-filled.jpg) | ![Back view showing both clips](images/print-back-clips.jpg) |
-| ![Clip detail](images/print-clip-detail.jpg) | ![Hanging on the drying rack, filled](images/print-drying-rack.jpg) |
+| ![Filled with clothespins on desk](images/print-desk-filled.png) | ![Back view showing both clips](images/print-back-clips.png) |
+| ![Clip detail](images/print-clip-detail.png) | ![Hanging on the drying rack, filled](images/print-drying-rack.png) |
 
 ## Status
 
