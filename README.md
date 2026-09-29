@@ -14,7 +14,7 @@ exports/                 # 3MF exports for slicing and printing
 ├── clothespin-box-Box.3mf     # box body only
 └── clothespin-box-Clamp.3mf   # clothesline clip only
 
-images/                  # renders and slicer screenshots
+images/                  # renders, slicer screenshots and print photos
 ```
 
 ## Design
@@ -27,6 +27,16 @@ needing a separate hook or bag.
 |---|---|
 | ![Box, isometric view](images/output_20260929-163615.png) | ![Box, front view with clips](images/output_20260929-165240.png) |
 
+## Final print
+
+Printed, filled with clothespins, and validated hanging directly on the
+clothesline.
+
+| | |
+|---|---|
+| ![Filled with clothespins on desk](images/print-desk-filled.jpg) | ![Back view showing both clips](images/print-back-clips.jpg) |
+| ![Clip detail](images/print-clip-detail.jpg) | ![Hanging on the drying rack, filled](images/print-drying-rack.jpg) |
+
 ## Status
 
-Box and clip parts modeled and sliced; first print test in progress.
+v1.0.0 — first working print, fitted and validated on the drying rack.
